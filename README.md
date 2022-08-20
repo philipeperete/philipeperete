@@ -2,11 +2,11 @@
 
 ## Olá! 👋
 
-Meu nome é Philipe Perete, tenho 24 anos, sou estudante de Ciencia da Computação.
+Meu nome é Philipe Perete, tenho 25 anos, formado em Ciencia da Computação.
 
 Trabalho com suporte na **[Kyndryl]**.
 
-🌱 Estou estudando desenvolvimento **Front-end** e **Back-end**, **Java** e **Python**.
+🌱 Estou estudando TUDO!
 
 #### :mag: Onde me achar?
 
