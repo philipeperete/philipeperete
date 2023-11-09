@@ -2,11 +2,11 @@
 
 ## Olá! 👋
 
-Meu nome é Philipe Perete, tenho 25 anos, formado em Ciencia da Computação.
+Meu nome é Philipe Perete, tenho 26 anos, formado em Ciencia da Computação.
 
-Trabalho com suporte na **[Kyndryl]**.
+Trabalho com suporte na **[Elettromec]**.
 
-🌱 Estou estudando TUDO!
+Estou aprendendo sobre TUDO!
 
 #### :mag: Onde me achar?
 
@@ -14,4 +14,4 @@ Trabalho com suporte na **[Kyndryl]**.
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PhilipePerete)](https://twitter.com/PhilipePerete)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:philipeperete@gmail.com)](mailto:philipeperete@gmail.com)
 
-[Kyndryl]: https://www.kyndryl.com/br/pt?gclid=CjwKCAjw3cSSBhBGEiwAVII0Z1M31HduthlGLLtmfHwhpLbxaNuQ1Vpup6774VD92wsXhPAQeAa2FBoCSucQAvD_BwE&gclsrc=aw.ds
+[Elettromec]: https://elettromec.com.br/
