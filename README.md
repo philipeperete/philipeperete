@@ -2,11 +2,11 @@
 
 ## Olá! 👋
 
-Meu nome é Philipe Perete, tenho 26 anos, formado em Ciencia da Computação.
+Meu nome é Philipe Perete, tenho 27 anos, formado em Ciencia da Computação.
 
-Trabalho com suporte na **[Elettromec]**.
+Trabalho com suporte e infraestrutura no **[Grupo Elettromec]**.
 
-Estou aprendendo sobre TUDO!
+Um eterno aprendiz, curioso e sempre aprendendo sobre TUDO!
 
 #### :mag: Onde me achar?
 
@@ -14,4 +14,4 @@ Estou aprendendo sobre TUDO!
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PhilipePerete)](https://twitter.com/PhilipePerete)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:philipeperete@gmail.com)](mailto:philipeperete@gmail.com)
 
-[Elettromec]: https://elettromec.com.br/
+[Grupo Elettromec]: https://elettromec.com.br/
